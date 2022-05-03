@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-Image Gallery created using react and react-photo-gallery
-Lightbox for enlarging an image on clicking
+Image Gallery created using react and react-photo-gallery \
+Lightbox for enlarging an image on clicking \
 Search functionality for searching through images
 
 ## Available Scripts
